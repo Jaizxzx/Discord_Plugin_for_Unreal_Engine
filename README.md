@@ -1,6 +1,8 @@
 # Discord Plugin for Unreal Engine ( Blueprint Integrated )
 Unreal Engine Plugin for Discord Rich Presence Integration with Blueprints
 
+Any Doubts or Issues: Reach me out on Discord @Jaizxzx
+
 This plugin is based on [Discord GameSDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide)
 v3.2.1. and this plugin is based on the [Xist's DiscordGameSample](https://github.com/XistGG/DiscordGameSample.git). 
 
